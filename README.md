@@ -3,8 +3,7 @@
 #  Business 360 Dashboard
 
 Live Dashboard
-View Interactive Power BI Report
-[https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[![Power BI Dashboard](https://img.icons8.com/color/96/power-bi.png)](https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 

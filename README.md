@@ -1,143 +1,187 @@
-# AtliQ-Hardware-Business-360
 
-##  **Check out the link to my interactive dashboard**
-https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-## **Problem Statement** :
+#  Business 360 Dashboard
 
-In this project performed India based AtliQ hardware company sales insights - A Data Analysis project.
+Live Dashboard
+View Interactive Power BI Report
+[https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-AtliQ Hardware is a company which supplies computer hardware and peripherals to many of clients such as surge stores, Nomad stores etc. across India. AtliQ Hardware head office is situated in Delhi, India and they have many regional office through out the India.
+---
 
-Sales director for this company is facing a lot of challenges is this the market is growing dynamically and sales director is facing issue in terms of tracking the sales in this dynamical growth market and he is having issues with growth of this bussiness, as overall sales was declining. He has regional manager for North India, South and Central India. Whenever he wants to get insights of thses region he would call these people and on the phone regional manager give some insights to him that this was the sales last quarter and we are going to grow by this much in the next quarter.
+## Project Overview
 
-The problem was that all thses thing happening is verbal and these was mo proof with facts that how his business is affected and which made him frustraed as he can see that overall sales is declining but when he can ask regional manager, he is not getting complete picture of this bussiness and when he and this AtliQ hardware is big business. so to see insights clearly. and he will get proper insights anbd can take data driven decision to increase sales of hos company. All he wants is a simple data visualization tool which he can access on daily basis. By using such tools and technology one can make data driven decisiions which helps to increase the sales of the company. So, In this projects we will help a company make its own sales related dashboard using power BI.
+AtliQ Hardware is an India-based company that supplies computer hardware and peripherals to multiple retail and distributor channels across the country.
+As the business expanded geographically, senior leadership struggled to maintain clear visibility into sales performance, profitability, and operational efficiency across regions.
 
-Data Discovery :
-Project Planning using AIMS Grid -
-It is a project management tool which consists of four components-
+This project focuses on building a centralized **Business 360 dashboard** that enables leadership to monitor performance across Finance, Sales, Supply Chain, Marketing, and Executive views using Power BI.
 
-Purpose - (What to do exactly)
-Stackholder - (Who will be involved)
-End result - (What do you want to achieve)
-Success Criteria - (Cost optimization and time save)
-AIMS Grid -
-1. Purpose :- To unlock sales insights that are not visible before for the sales them for decision support and automate them to reduced manual time spent in data gathering.
+The objective was to replace fragmented, verbal reporting with a single source of truth that supports data-driven decision-making.
 
-2. Stakeholders :-
+---
 
-Sales Director
-Marketing Team
-Customer Service Team
-Data and Analytics Team
-IT
-3. End result :- An automated dashboard providing quick and latest sights in order to support Data driven decision making.
+## Business Problem
 
-4. Success Criteria :-
+The Sales Director relied heavily on verbal updates from regional managers (North, South, and Central India) to understand business performance.
+Although overall sales were declining, there was no clear, data-backed explanation for why this was happening or where corrective action was required.
 
-Dahboard uncovering sales order insights with latest data available
-Sales team able to take better decisions and prove 10% cost saving of total spend.
-Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
+Key challenges included:
 
-# Finance View  
-### Objectives  
-- Improve financial planning and budgeting processes.  
-- Enhance cost control and expense management.  
+* Lack of real-time visibility into sales and profitability
+* No standardized KPIs across regions and departments
+* Manual data gathering consuming significant business time
+* Difficulty validating regional performance claims with factual data
 
-### Key Achievements  
-- Implemented a robust financial forecasting model, resulting in more accurate budget predictions.  
-- Created benchmarking against last year and target goals for budgeting.  
+Leadership required a simple, reliable, and always-available visualization tool to clearly understand business performance and take timely action.
 
----  
+---
 
-# Sales View  
-### Objectives  
-- Increase sales revenue and market share.  
-- Enhance customer relationship management.  
+## Project Planning – AIMS Grid
 
-### Key Achievements  
-- Created customer and product overall sales performance report and unit economics.  
-- Identified sales trends and tracked KPIs.  
+To ensure clarity and stakeholder alignment, the project was planned using the AIMS Grid framework.
 
----  
+**Purpose**
+Unlock sales and performance insights that were previously unavailable, support faster decision-making, and reduce manual reporting effort.
 
-# Supply Chain View  
-### Objectives  
-- Optimize inventory management and reduce lead times.  
-- Enhance supplier relationships for cost savings.  
+**Stakeholders**
 
-### Key Achievements  
-- Identified forecast accuracy %, net error %, absolute error % trends.  
-- Key metrics by customers and products for demand-supply management.  
+* Sales Director
+* Marketing Team
+* Customer Service Team
+* Data and Analytics Team
+* IT Team
 
----  
+**End Result**
+An automated and interactive Power BI dashboard delivering up-to-date insights across all business functions.
 
-# Executive View  
-### Objectives  
-- Provide an overview of the entire organization's performance.  
-- Enable data-driven decision-making for top management.  
+**Success Criteria**
 
-### Key Achievements  
-- Developed an executive dashboard for real-time performance monitoring.  
-- Shows revenue by division, customers, products, and channels, and ribbon chart for manufacturers.  
+* Clear visibility into sales orders and profitability
+* Improved decision-making across teams
+* Approximately 10 percent cost optimization through better insights
+* Approximately 20 percent reduction in manual data collection time
 
----  
+---
 
-# Marketing View  
-### Objectives  
-- Increase brand visibility and customer engagement.  
-- Implement data-driven marketing strategies.  
+## Dashboard Views and Business Impact
 
-### Key Achievements  
-- Created region and product-wise overall market performance report and unit economics.  
-- Identified market trends and tracked KPIs.  
+### Finance View
 
----  
+**Objective**
+Improve financial planning, budgeting, and cost control.
 
-# Skills  
-- Learnt Power BI fundamentals  
-- Creating calculated columns and DAX measures  
-- Data modeling, data validation techniques, and using KPI indicators  
-- Using bookmarks to switch between two visuals and conditional formatting  
-- Page navigation with buttons  
-- Using tooltips to save page area  
-- Dynamic titles based on the applied filters  
-- Power BI Services for publishing and sharing reports online  
-- Auto-refresh setup for data through gateway  
-- Creating date table using M language  
+**Key Outcomes**
 
----  
+* Forecasting and benchmarking against previous year and target goals
+* Improved accuracy in budget planning and variance analysis
 
-# Tech Stacks  
-- **SQL**  
-- **Power BI Desktop**  
-- **DAX Language**  
-- **DAX Studio** (To reduce file size)  
+---
 
----  
+### Sales View
 
-# Project Charter File  
+**Objective**
+Increase sales revenue and improve customer and product performance tracking.
 
-## Business-Related Terms  
-- **Gross Margin**, **Gross Margin %**  
-- **Gross Sales**, **Gross Sales %**  
-- **Pre-invoice deductions** and **Post-invoice deductions**  
-- **Net Sales**, **Net Invoice Sales**  
-- **Net Profit** and **Net Profit %**  
-- **COGS (Cost of Goods Sold)**  
-- **YTG (Year to Go)**  
-- **YTD (Year to Date)**  
-- **Direct, Retailer, Consumer, and Distributors**  
+**Key Outcomes**
 
----  
+* Customer- and product-level sales performance analysis
+* Identification of sales trends and key revenue drivers
 
-# Soft Skills  
-- **Stakeholder mapping analysis**  
-- **Effective communication with stakeholders, feedback, and management**  
-- **Business and domain knowledge in sales, finance, marketing, and supply chain**  
+---
 
----  
+### Supply Chain View
 
-# Conclusion  
-This dashboard answers many business questions based on different scenarios.  
-This report can be used to make data-driven decisions and help AtliQ become more profitable.  
+**Objective**
+Optimize inventory planning and demand forecasting.
+
+**Key Outcomes**
+
+* Analysis of forecast accuracy, net error percentage, and absolute error percentage
+* Customer- and product-level demand and supply insights
+
+---
+
+### Executive View
+
+**Objective**
+Provide leadership with a consolidated, high-level view of organizational performance.
+
+**Key Outcomes**
+
+* Real-time executive performance dashboard
+* Revenue visibility by division, customer, product, and channel
+* Manufacturer performance analysis using ribbon charts
+
+---
+
+### Marketing View
+
+**Objective**
+Enable data-driven marketing and market performance analysis.
+
+**Key Outcomes**
+
+* Region-wise and product-wise market performance tracking
+* Identification of market trends and key performance indicators
+
+---
+
+## Skills and Concepts Applied
+
+* Power BI data modeling and data validation
+* Calculated columns and DAX measures
+* KPI indicators and conditional formatting
+* Bookmarks for dynamic visual switching
+* Page navigation using buttons
+* Tooltips for space-efficient insights
+* Dynamic titles based on applied filters
+* Power BI Service for publishing and sharing reports
+* Scheduled data refresh using gateway
+* Date table creation using M language
+
+---
+
+## Tech Stack
+
+* SQL
+* Power BI Desktop
+* DAX Language
+* DAX Studio (used for file size optimization)
+
+---
+
+## Business Concepts Covered
+
+* Gross Sales, Net Sales, Net Profit
+* Gross Margin and Gross Margin Percentage
+* Pre-invoice and post-invoice deductions
+* Cost of Goods Sold (COGS)
+* Year to Date (YTD) and Year to Go (YTG)
+* Sales channels including Direct, Retailer, Distributor, and Consumer
+
+---
+
+## Soft Skills Demonstrated
+
+* Stakeholder mapping and requirement analysis
+* Effective communication with business users and management
+* Business and domain understanding across sales, finance, marketing, and supply chain
+* Translating business problems into analytical and reporting solutions
+
+---
+
+## Conclusion
+
+This Business 360 dashboard provides AtliQ Hardware with a clear and unified view of business performance across departments and regions.
+By replacing fragmented reporting with a centralized analytics system, leadership can now make fact-based decisions, identify growth opportunities, and improve overall profitability.
+
+---
+
+## Why This Project Matters
+
+* Demonstrates real-world business problem solving
+* Shows end-to-end analytics system thinking
+* Aligns data analysis with executive decision-making
+* Reflects industry-style Power BI implementation
+
+---
+

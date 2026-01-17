@@ -2,7 +2,8 @@
 
 #  Business 360 Dashboard
 
-Live Dashboard
+**Live Dashboard**
+
 [![View Dashboard](https://img.shields.io/badge/Power%20BI-View%20Dashboard-yellow)](https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
